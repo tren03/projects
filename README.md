@@ -1,2 +1,2 @@
-# projects
-these are my college assignments
+# Projects
+Just a rep with random programs
